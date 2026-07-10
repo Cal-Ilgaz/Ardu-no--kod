@@ -1,0 +1,12 @@
+Eleman.       /      Parça Üzerindeki Arduino Uno'daki pin Karşılığı
+I2C LCD EkranGND.      GND
+I2C LCD EkranVCC.      5V
+I2C LCD EkranSDA.      SDA
+I2C LCD EkranSCL.      SCL
+Zıplama Butonu.        Pin 2
+Ateş Butonu.           Pin 7
+Çıkış Butonu.          Pin 9
+Ses Butonu (Mute).     Pin 13
+Tüm Butonların 2. Bacaklar Ortak GND bağlanacak (Breadboard Mavi Şerit)
+BuzzerArtı (+) Kutup.  Pin 8
+BuzzerEksi (-) Kutup.  GND
